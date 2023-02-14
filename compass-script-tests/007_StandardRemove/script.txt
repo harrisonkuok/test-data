@@ -1,7 +1,7 @@
-// runFile = "{RUNFILE}"
-// exportDir = "{EXPORTDIR}"
-// open(runFile)
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
 standardremove(3, 283)
-// export(exportDir)
-// close("ALL_FORCE_CLOSE")
-// exit()
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()
