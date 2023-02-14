@@ -1,0 +1,11 @@
+groupID	Sample	Primary	Secondary	Capillary	"RACK1"	Channel	"FTO"	Channel	"elF2a1"	Channel	"elF2a2"	Channel	"MettL14"	Channel	"bActin"	Channel	"MettL3"	Channel	"S3"	Channel	"CFTR_1"	Channel	"CFTR_2"	Channel	"NPT"	Channel
+"80S-S3-rabbit"	"80S"	"S3"	"rabbit"	13															131740.195	CHEMI						
+"CFB-CFTR-Mouse"	"CFB"	"CFTR"	"Mouse"	24																	274091.188	CHEMI	424436.855	CHEMI		
+"CFB-NPT-rabbit"	"CFB"	"NPT"	"rabbit"	25																					475074.924	CHEMI
+"SKOV un-RACK1/FTO-rabbit"	"SKOV un"	"RACK1/FTO"	"rabbit"	2	927522.004	CHEMI	1052825.204	CHEMI																		
+"SKOV un-RACK1/FTO-rabbit"	"SKOV un"	"RACK1/FTO"	"rabbit"	3	808066.042	CHEMI	661440.842	CHEMI																		
+"SKOV un-S3-rabbit"	"SKOV un"	"S3"	"rabbit"	12															36042.333	CHEMI						
+"SKOV un-bActin/MettL3-20XRabbit/Mouse"	"SKOV un"	"bActin/MettL3"	"20XRabbit/Mouse"	6											1964971.678	CHEMI	2691043.973	CHEMI								
+"SKOV un-bActin/MettL3-20XRabbit/Mouse"	"SKOV un"	"bActin/MettL3"	"20XRabbit/Mouse"	7											1346516.693	CHEMI	685539.514	CHEMI								
+"SKOV un-eIF2a/MettL14-rabbit"	"SKOV un"	"eIF2a/MettL14"	"rabbit"	4					1499610.907	CHEMI	1436722.798	CHEMI	2069954.087	CHEMI												
+"SKOV un-eIF2a/MettL14-rabbit"	"SKOV un"	"eIF2a/MettL14"	"rabbit"	5					1666362.878	CHEMI	1024172.964	CHEMI	1441105.694	CHEMI												

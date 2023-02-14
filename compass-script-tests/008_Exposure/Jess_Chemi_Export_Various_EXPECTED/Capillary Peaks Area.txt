@@ -1,0 +1,25 @@
+Sample	Attribute	Primary	Attribute	Secondary	Scdry Attr	Cap	"RACK1"	"FTO"	"elF2a1"	"elF2a2"	"MettL14"	"bActin"	"MettL3"	"S3"	"CFTR_1"	"CFTR_2"	"NPT"
+"SKOV un"	"pur"	"RACK1/FTO"	"1:50/1:50"	"rabbit"	""	2	927522.004	1052825.204	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"RACK1/FTO"	"1:50/1:50"	"rabbit"	""	3	808066.042	661440.842	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"pur"	"eIF2a/MettL14"	"1:50/1:50"	"rabbit"	""	4	 	 	1499610.907	1436722.798	2069954.087	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"eIF2a/MettL14"	"1:50/1:50"	"rabbit"	""	5	 	 	1666362.878	1024172.964	1441105.694	 	 	 	 	 	 	
+"SKOV un"	"pur"	"bActin/MettL3"	"1:50/1:25"	"20XRabbit/Mouse"	"1:19"	6	 	 	 	 	 	1964971.678	2691043.973	 	 	 	 	
+"SKOV un"	"1:2"	"bActin/MettL3"	"1:50/1:25"	"20XRabbit/Mouse"	"1:19"	7	 	 	 	 	 	1346516.693	685539.514	 	 	 	 	
+"SKOV un"	"pur"	"bActin"	"1:50"	"Mouse"	""	8	 	 	 	 	 	 	 	 	 	 	 	
+"80S"	"pur"	"bActin"	"1:50"	"Mouse"	""	9	 	 	 	 	 	 	 	 	 	 	 	
+"80S"	"1:500"	"RACK1"	"1:50"	"rabbit"	""	10	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"pur"	"RACK1"	"1:50"	"rabbit"	""	11	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"pur"	"S3"	"1:50"	"rabbit"	""	12	 	 	 	 	 	 	 	36042.333	 	 	 	
+"80S"	"pur"	"S3"	"1:50"	"rabbit"	""	13	 	 	 	 	 	 	 	131740.195	 	 	 	
+"80S"	"pur"	"eEF1A2"	"1:50"	"Mouse"	""	14	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"pur"	"eIF2a"	"1:50"	"rabbit"	""	15	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:10"	"ALKBH5"	"1:50"	"rabbit"	""	16	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"ALKBH5"	"1:50"	"rabbit"	""	17	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:10"	"FTO"	"1:50"	"rabbit"	""	18	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"FTO"	"1:50"	"rabbit"	""	19	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"MettL3"	"1:25"	"rabbit"	""	20	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:10"	"MettL14"	"1:50"	"rabbit"	""	21	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"MettL14"	"1:50"	"rabbit"	""	22	 	 	 	 	 	 	 	 	 	 	 	
+"SKOV un"	"1:2"	"WTAP"	"1:100"	"Mouse"	""	23	 	 	 	 	 	 	 	 	 	 	 	
+"CFB"	"pur"	"CFTR"	"1:50"	"Mouse"	""	24	 	 	 	 	 	 	 	 	274091.188	424436.855	 	
+"CFB"	"pur"	"NPT"	"1:50"	"rabbit"	""	25	 	 	 	 	 	 	 	 	 	 	475074.924	
