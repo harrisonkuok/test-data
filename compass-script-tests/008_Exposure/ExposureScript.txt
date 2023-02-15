@@ -1,0 +1,12 @@
+// This script file opens the run file in the test, then
+// it changes the exporures in cycle C1 of the CHEMI channel
+// to the 4th settings and exports the tables. The run file 
+// is then closed and the Compass application is exited.
+
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
+exposure("C1", "CHEMI", 4)
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()

@@ -1,0 +1,13 @@
+// This script file opens the run file in the test, then
+// it removes the standard at Cap 3 Position 283 and export 
+// the tables. The run file is then closed and the Compass 
+// application is exited.
+
+
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
+standardremove(3, 283)
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()

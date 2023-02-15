@@ -1,7 +1,0 @@
-runFile = "{RUNFILE}"
-exportDir = "{EXPORTDIR}"
-open(runFile)
-peakhide(2, "CHEMI", 48)
-export(exportDir)
-close("ALL_FORCE_CLOSE")
-exit()

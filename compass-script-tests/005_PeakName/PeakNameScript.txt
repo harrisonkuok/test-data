@@ -1,0 +1,13 @@
+// This script file opens the run file in the test, then
+// it names a peak in the CHEMI channel in Cap 2 at 
+// position 48 with name "a_name" and export the tables. 
+// The run file is then closed and the Compass application 
+// is exited.
+
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
+peakname(2, 48, "CHEMI", "a_name")
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()

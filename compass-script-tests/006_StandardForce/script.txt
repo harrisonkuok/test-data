@@ -1,7 +1,0 @@
-runFile = "{RUNFILE}"
-exportDir = "{EXPORTDIR}"
-open(runFile)
-standardforce(3, 75)
-export(exportDir)
-close("ALL_FORCE_CLOSE")
-exit()

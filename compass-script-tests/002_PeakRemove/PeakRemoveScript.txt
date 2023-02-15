@@ -1,0 +1,12 @@
+// This script file opens the run file in the test, then
+// it removes the peak in Cap 2 Position 4.02 and export 
+// the tables. The run file is then closed and the Compass
+// application is exited.
+
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
+peakremove(2, 4.02)
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()

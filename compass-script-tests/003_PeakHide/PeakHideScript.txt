@@ -1,0 +1,12 @@
+// This script file opens the run file in the test, then
+// it hides the peak in the CHEMI channel in Cap 2 at 
+// position 48 and export the tables. The run file is 
+// then closed and the Compass application is exited.
+
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
+peakhide(2, "CHEMI", 48)
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()

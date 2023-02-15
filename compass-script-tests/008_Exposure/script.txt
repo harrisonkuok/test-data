@@ -1,7 +1,0 @@
-runFile = "{RUNFILE}"
-exportDir = "{EXPORTDIR}"
-open(runFile)
-exposure("C1", "CHEMI", 4)
-export(exportDir)
-close("ALL_FORCE_CLOSE")
-exit()

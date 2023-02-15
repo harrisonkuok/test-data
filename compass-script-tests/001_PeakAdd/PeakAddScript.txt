@@ -1,0 +1,12 @@
+// This script file opens the run file in the test, then
+// it adds a peak in Cap 2 Position 3.3 and export the 
+// tables. The run file is then closed and the Compass
+// application is exited.
+
+runFile = "{RUNFILE}"
+exportDir = "{EXPORTDIR}"
+open(runFile)
+peakadd(2, 3.3)
+export(exportDir)
+close("ALL_FORCE_CLOSE")
+exit()

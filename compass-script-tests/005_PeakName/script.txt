@@ -1,7 +1,0 @@
-runFile = "{RUNFILE}"
-exportDir = "{EXPORTDIR}"
-open(runFile)
-peakname(2, 48, "CHEMI", "a_name")
-export(exportDir)
-close("ALL_FORCE_CLOSE")
-exit()

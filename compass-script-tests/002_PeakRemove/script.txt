@@ -1,7 +1,0 @@
-runFile = "{RUNFILE}"
-exportDir = "{EXPORTDIR}"
-open(runFile)
-peakremove(2, 4.02)
-export(exportDir)
-close("ALL_FORCE_CLOSE")
-exit()
